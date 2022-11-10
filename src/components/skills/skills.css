@@ -1,0 +1,49 @@
+.skills__title {
+    padding-top: 91px;
+    padding-bottom: 70px;
+    font-family: 'Gilroy-Bold';
+    font-size: 34px;
+    line-height: 42px;
+    text-align: center;
+    color: #070707;
+  }
+  .skills__description {
+    padding-bottom: 82.5px;
+    line-height: 22px;
+    text-align: center;
+  }
+  .skills__card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .skills__card-content {
+    width: 25%;
+    text-align: center;
+  }
+  .content__image {
+    padding-bottom: 25px;
+  }
+  .grades__image {
+    width: 26px;
+    height: 26px;
+    fill: #070707;
+    border-radius: 2px;
+  }
+  .color {
+    fill: #E5E5E5;
+  }
+  .grades:last-child .grades__image {
+    fill: #E5E5E5;
+  }
+  .grade {
+    margin-top: 20px;
+  }
+  .content__grade {
+    padding-top: 38px;
+  
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-bottom: 110px;
+  }
