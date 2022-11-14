@@ -1,0 +1,52 @@
+.contacts__title {
+    padding-top: 120px;
+    padding-bottom: 20px;
+  
+    font-family: 'Gilroy-Bold';
+    font-size: 34px;
+    line-height: 42px;
+    text-align: center;
+    color: #070707;
+  }
+  .contacts__description {
+    line-height: 22px;
+    text-align: center;
+  }
+  .contacts__btn {
+    display: flex;
+    margin: 0 auto;
+    padding: 13px 29px;
+    margin-top: 43px;
+    margin-bottom: 97px;
+    background-color: #070707;
+    border-radius: 20px;
+  
+    font-family: 'Gilroy-Bold';
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF;
+  }
+  .contacts__btn:hover {  
+    box-shadow: 0 2px 10px  #070707;
+    transition: .1s ease-in-out;
+  }
+  .contacts__social {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  
+    gap: 60px;
+    margin: 0 auto;
+    padding-bottom: 45px;
+  }
+  .social__image {
+    width: 40px;
+    height: 40px;
+  }
+  .contacts__text {
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #828282;
+  }

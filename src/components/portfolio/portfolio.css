@@ -1,0 +1,33 @@
+
+.portdolio {
+    background-color: #F6F6F6;
+    padding-bottom: 98px;
+  }
+  .portdolio__title {
+    padding-top: 113px;
+    padding-bottom: 47px;
+    font-family: 'Gilroy-Bold', sans-serif;
+    font-size: 34px;
+    line-height: 42px;
+    text-align: center;
+    color: #070707;
+  }
+  .portfolio-image {
+    padding-bottom: 45px;
+  
+  }
+  .portfolio__link {
+    display: block;
+  
+    max-width: 300px;
+    margin: 0 auto;
+  
+    margin-bottom: 98px;
+  
+    line-height: 22px;
+    text-align: center;
+    text-decoration-line: underline;
+  }
+  .portfolio__link:last-child {
+    margin-bottom: 0px;
+  }

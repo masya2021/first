@@ -4,7 +4,7 @@ import ae from "../../assets/img/ae.png";
 import ai from "../../assets/img/ai.png";
 import figma from "../../assets/img/figma.png";
 
-import star from "../../assets/svg/sprites/sprite.svg";
+import sprite from "../../assets/svg/sprites/sprite.svg";
 
 export const Skills = () => {
   return (
@@ -30,29 +30,19 @@ export const Skills = () => {
 
               <div className="content__grade">
                 <div className="grades">
-                  <svg className="grades__image">
-                    <use xlinkHref={star} />
-                  </svg>
+                  <img className="grades__image" src={sprite} alt="grade" />
                 </div>
                 <div className="grades">
-                  <svg className="grades__image">
-                    <use xlinkHref={star} />
-                  </svg>
+                  <img className="grades__image" src={sprite} alt="grade" />
                 </div>
                 <div className="grades">
-                  <svg className="grades__image">
-                    <use xlinkHref={star} />
-                  </svg>
+                  <img className="grades__image" src={sprite} alt="grade" />
                 </div>
                 <div className="grades">
-                  <svg className="grades__image">
-                    <use xlinkHref={star} />
-                  </svg>
+                  <img className="grades__image" src={sprite} alt="grade" />
                 </div>
                 <div className="grades">
-                  <svg className="grades__image">
-                    <use xlinkHref={star} />
-                  </svg>
+                  <img className="grades__image color" src={sprite} alt="grade" />
                 </div>
               </div>
             </div>
@@ -70,29 +60,19 @@ export const Skills = () => {
 
               <div className="content__grade">
                 <div className="grades">
-                  <svg className="grades__image">
-                    <use xlinkHref={star} />
-                  </svg>
+                  <img className="grades__image" src={sprite} alt="grade" />
                 </div>
                 <div className="grades">
-                  <svg className="grades__image">
-                    <use xlinkHref={star} />
-                  </svg>
+                  <img className="grades__image" src={sprite} alt="grade" />
                 </div>
                 <div className="grades">
-                  <svg className="grades__image">
-                    <use xlinkHref={star} />
-                  </svg>
+                  <img className="grades__image" src={sprite} alt="grade" />
                 </div>
                 <div className="grades">
-                  <svg className="grades__image color">
-                    <use xlinkHref={star} />
-                  </svg>
+                  <img className="grades__image color" src={sprite} alt="grade" />
                 </div>
                 <div className="grades">
-                  <svg className="grades__image color">
-                    <use xlinkHref={star} />
-                  </svg>
+                  <img className="grades__image color" src={sprite} alt="grade" />
                 </div>
               </div>
             </div>
@@ -110,29 +90,19 @@ export const Skills = () => {
 
               <div className="content__grade">
                 <div className="grades">
-                  <svg className="grades__image">
-                    <use xlinkHref={star} />
-                  </svg>
+                  <img className="grades__image" src={sprite} alt="grade" />
                 </div>
                 <div className="grades">
-                  <svg className="grades__image">
-                    <use xlinkHref={star} />
-                  </svg>
+                  <img className="grades__image" src={sprite} alt="grade" />
                 </div>
                 <div className="grades">
-                  <svg className="grades__image">
-                    <use xlinkHref={star} />
-                  </svg>
+                  <img className="grades__image" src={sprite} alt="grade" />
                 </div>
                 <div className="grades">
-                  <svg className="grades__image">
-                    <use xlinkHref={star} />
-                  </svg>
+                  <img className="grades__image" src={sprite} alt="grade" />
                 </div>
                 <div className="grades">
-                  <svg className="grades__image">
-                    <use xlinkHref={star} />
-                  </svg>
+                  <img className="grades__image color" src={sprite} alt="grade" />
                 </div>
               </div>
             </div>
@@ -143,29 +113,19 @@ export const Skills = () => {
 
               <div className="content__grade grade">
                 <div className="grades">
-                  <svg className="grades__image">
-                    <use xlinkHref={star} />
-                  </svg>
+                  <img className="grades__image" src={sprite} alt="grade" />
                 </div>
                 <div className="grades">
-                  <svg className="grades__image">
-                    <use xlinkHref={star} style={{ fill: "red" }} />
-                  </svg>
+                  <img className="grades__image" src={sprite} alt="grade" />
                 </div>
                 <div className="grades">
-                  <svg className="grades__image">
-                    <use xlinkHref={star} />
-                  </svg>
+                  <img className="grades__image" src={sprite} alt="grade" />
                 </div>
                 <div className="grades">
-                  <svg className="grades__image">
-                    <use xlinkHref={star} />
-                  </svg>
+                  <img className="grades__image" src={sprite} alt="grade" />
                 </div>
                 <div className="grades">
-                  <svg className="grades__image">
-                    <use xlinkHref={star} />
-                  </svg>
+                  <img className="grades__image color" src={sprite} alt="grade" />
                 </div>
               </div>
             </div>
